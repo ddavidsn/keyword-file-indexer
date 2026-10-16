@@ -1,0 +1,15 @@
+# Compiled binaries and object files
+*.o
+*.exe
+*.out
+*.a
+
+# Debugging and memory-check files
+*.log
+vgcore.*
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

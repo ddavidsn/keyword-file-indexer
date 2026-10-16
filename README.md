@@ -65,5 +65,3 @@ Input uses whitespace-delimited commands and the record format specified by the 
 ## Verification and scope
 
 The unchanged implementation **compiled with GCC** and matched **80 of 80** supplied course reference-output tests in a local review, including prefix-query cases. The course tests are intentionally not redistributed. This is not a performance benchmark or exhaustive correctness or memory-safety audit.
-
-Please check the course policy before publishing the assignment solution to a public repository.

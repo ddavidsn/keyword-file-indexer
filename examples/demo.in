@@ -1,0 +1,13 @@
+12
+ADD DesignSpec 95 3 architecture systems planning
+ADD Notes 80 2 algorithms systems
+ADD Summary 91 2 algorithms study
+FIND systems
+TOPK systems 2
+PREFIX alg
+ADDKW DesignSpec algorithms
+TOPK algorithms 2
+DELKW Notes systems
+FIND systems
+DEL Summary
+PREFIX stu
